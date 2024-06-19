@@ -16,17 +16,20 @@
 </div>
 
 <h1> <b>🪢 About Me </b></h1>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer from India.
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  👀 I’m interested in Data Scientist Role <br>
  🌱 I’m currently learning Data Science <br>
  💞️ I’m looking to collaborate on Data Science Projects<br>
  📫 How to reach me at maityshreya670@gamil.com <br>
  ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
- <br>
+
+ <br><br>
  <div>
  🛠️ Languages and Tools :
  </div>
- <div>
+<br><br>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
@@ -41,4 +44,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maityshreya&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maityshreya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

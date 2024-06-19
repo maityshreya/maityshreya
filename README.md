@@ -18,7 +18,7 @@ I am a Full Stack Developer from India.
  🌱 I’m currently learning Data Science <br>
  💞️ I’m looking to collaborate on Data Science Projects<br>
  📫 How to reach me,at maityshreya670@gamil.com <br>
- 🔗 MyL inkedin link, www.linkedin.com/in/shreya-maity-770726228
+ 🔗 MyL inkedin link, www.linkedin.com/in/shreya-maity-770726228<br>
  ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
  <br><br>
